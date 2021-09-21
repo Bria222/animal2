@@ -10,7 +10,7 @@ var typed=new Typed(`#type`,{
      loop: true,
    })
    var typed =new Typed(`#msg`,{
-        strings:[" Your Animal has been saved ! "],
+        strings:[" Animal has been saved  "],
         backSpeed:70,
         typeSpeed:80,
         smartBackspace:true,
