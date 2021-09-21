@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="995a0af6-701c-4470-8147-89f18ed985d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../to-do-two/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-do/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-do/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-do/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/License.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/angular-bootstrap-md-7.4.3.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/angular-clean.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/changelog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/01.0a3750e6fdb29fcd632e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/02.351bd6828f980ec53eb3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/03.e438ea2aabdb1087dc4f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/04.0284d042a6c29213aaa1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/05.5014f9cce435c71ade63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/06.21612b9d3e9d84e7e876.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/07.f8da0281186df8f17f73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/08.975f7e0074400e7561ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/09.fd19309a1932b4751387.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Bold.39b2c3031be6b4ea96e2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Bold.dc81817def276b4f2139.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Bold.e31fcf1885e371e19f57.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Bold.ecdd509cadbf1ea78b8d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Light.3b813c2ae0d04909a33a.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Light.46e48ce0628835f68a73.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Light.69f8a0617ac472f78e45.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Light.a990f611f2305dc12965.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Medium.4d9f3f9e5195e7b074bb.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Medium.574fd0b50367f886d359.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Medium.894a2ede85a483bf9bed.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Medium.fc78759e93a6cac50458.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Regular.2751ee43015f9884c364.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Regular.30799efa5bf74129468a.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Regular.ba3dcd8903e3d0af5de7.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Regular.df7b648ce5356ea1ebce.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Thin.7500519de3d82e33d158.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Thin.94998475f6aea65f5584.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Thin.954bbdeb86483e4ffea0.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/Roboto-Thin.dfe56a876d0282555d1e.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/arrow_left.270f72df47e036d9cfa1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/arrow_right.d9ccc77c8240ad0dc272.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-brands-400.2ef8ba3410dcc71578a8.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-brands-400.5bf145531213545e03ff.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-brands-400.5e2f92123d241cabecf0.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-brands-400.98b6db59be947f563350.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-brands-400.a7b95dbdd87e0c809570.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-regular-400.427d721b86fc9c68b2e8.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-regular-400.5eb754ab7dbd2fee5623.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-regular-400.65b9977aa23185e8964b.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-regular-400.dcce4b7fbd5e895561e1.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-regular-400.e6257a726a0cf6ec8c6f.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-solid-900.418dad87601f9c8abd0e.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-solid-900.46e7cec623d8bd790d9f.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-solid-900.49279363201ed19a8407.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-solid-900.a7140145ebaaf5fb14e4.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/fa-solid-900.ff8d9f8adb0d09f11d48.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/main.c33b4fb693f36de1bdeb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/polyfills.be046e6cce11d17972ee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/runtime.ec2944dd8b20ec099bf3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/scripts.76d41fbab69877b36452.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/dist/mdb-angular-free/styles.5d3f3d3f092558ea49cb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo-e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo-e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo-e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo-e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/app.server.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/advanced-main/advanced-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/advanced-main/advanced-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/advanced-main/advanced-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/advanced-main/advanced-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel-fullpage-example/carousel-fullpage-example.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel-fullpage-example/carousel-fullpage-example.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel-fullpage-example/carousel-fullpage-example.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel-fullpage-example/carousel-fullpage-example.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel/carousel.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel/carousel.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel/carousel.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/carousel/carousel.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/bar/bar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/bar/bar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/bar/bar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/bar/bar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/charts.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/charts.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/charts.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/charts.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/dounghnut/dounghnut.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/dounghnut/dounghnut.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/dounghnut/dounghnut.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/dounghnut/dounghnut.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/easy/easy.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/easy/easy.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/easy/easy.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/easy/easy.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/line/line.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/line/line.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/line/line.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/line/line.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/pie/pie.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/pie/pie.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/pie/pie.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/pie/pie.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/polar/polar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/polar/polar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/polar/polar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/polar/polar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/radar/radar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/radar/radar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/radar/radar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/charts/radar/radar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/collapse/collapse.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/collapse/collapse.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/collapse/collapse.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/collapse/collapse.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/popover/popover.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/popover/popover.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/popover/popover.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/popover/popover.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/tooltip/tooltip.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/tooltip/tooltip.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/tooltip/tooltip.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/advanced/tooltip/tooltip.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/buttons/buttons.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/buttons/buttons.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/buttons/buttons.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/buttons/buttons.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/cards/cards.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/cards/cards.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/cards/cards.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/cards/cards.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/components-main/components-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/components-main/components-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/components-main/components-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/components-main/components-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/dropdowns/dropdowns.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/dropdowns/dropdowns.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/dropdowns/dropdowns.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/dropdowns/dropdowns.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/list-groups/list-groups.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/list-groups/list-groups.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/list-groups/list-groups.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/list-groups/list-groups.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-advanced/pagination-advanced.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-advanced/pagination-advanced.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-advanced/pagination-advanced.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-advanced/pagination-advanced.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-api/pagination-api.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-api/pagination-api.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-api/pagination-api.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-api/pagination-api.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-basic/pagination-basic.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-basic/pagination-basic.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-basic/pagination-basic.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination-basic/pagination-basic.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination/pagination.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination/pagination.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/pagination/pagination.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/panels/panels.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/panels/panels.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/panels/panels.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/panels/panels.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/tags-labels-badges/tags-labels-badges.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/tags-labels-badges/tags-labels-badges.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/tags-labels-badges/tags-labels-badges.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/components/tags-labels-badges/tags-labels-badges.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/css-main/css-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/css-main/css-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/css-main/css-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/css-main/css-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/hover/hover.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/hover/hover.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/hover/hover.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/hover/hover.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/masks/masks.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/masks/masks.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/masks/masks.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/masks/masks.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/shadows/shadows.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/shadows/shadows.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/shadows/shadows.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/css/shadows/shadows.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/extended-main/extended-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/extended-main/extended-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/extended-main/extended-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/extended-main/extended-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/maps/maps.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/maps/maps.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/maps/maps.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/extended/maps/maps.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/checkbox/checkbox.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/checkbox/checkbox.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/checkbox/checkbox.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/checkbox/checkbox.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms-main/forms-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms-main/forms-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms-main/forms-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms-main/forms-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms/forms.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms/forms.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms/forms.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/forms/forms.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-groups/input-groups.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-groups/input-groups.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-groups/input-groups.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-groups/input-groups.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-validation/input-validation.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-validation/input-validation.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-validation/input-validation.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/input-validation/input-validation.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/inputs/inputs.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/inputs/inputs.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/inputs/inputs.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/inputs/inputs.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/radio/radio.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/radio/radio.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/radio/radio.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/radio/radio.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/search/search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/search/search.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/search/search.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/search/search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/textarea/textarea.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/textarea/textarea.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/textarea/textarea.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/forms/textarea/textarea.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/main-view/main-view.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/main-view/main-view.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/main-view/main-view.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/main-view/main-view.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-advanced/modal-advanced.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-advanced/modal-advanced.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-advanced/modal-advanced.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-advanced/modal-advanced.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-basic/modal-basic.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-basic/modal-basic.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-basic/modal-basic.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-basic/modal-basic.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-events/modal-events.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-events/modal-events.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-events/modal-events.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-events/modal-events.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-forms/modal-forms.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-forms/modal-forms.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-forms/modal-forms.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-forms/modal-forms.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-styles/modal-styles.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-styles/modal-styles.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-styles/modal-styles.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modal-styles/modal-styles.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modals-main/modals-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modals-main/modals-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modals-main/modals-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/modals/modals-main/modals-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/footer-ex/footer-ex.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/footer-ex/footer-ex.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/footer-ex/footer-ex.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/footer-ex/footer-ex.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/hamburger/hamburger.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/hamburger/hamburger.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/hamburger/hamburger.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/hamburger/hamburger.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navbars/navbars.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navbars/navbars.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navbars/navbars.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navbars/navbars.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-n/i-f-n.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-n/i-f-n.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-n/i-f-n.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-n/i-f-n.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-t-n/i-f-t-n.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-t-n/i-f-t-n.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-t-n/i-f-t-n.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-f-t-n/i-f-t-n.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-n/i-n-f-n.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-n/i-n-f-n.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-n/i-n-f-n.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-n/i-n-f-n.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-t-n/i-n-f-t-n.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-t-n/i-n-f-t-n.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-t-n/i-n-f-t-n.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/i-n-f-t-n/i-n-f-t-n.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/navigation-layout.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/navigation-layout.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/navigation-layout.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/navigation-layout.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-f-n/r-f-n.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-f-n/r-f-n.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-f-n/r-f-n.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-f-n/r-f-n.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-n-f-n/r-n-f-n.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-n-f-n/r-n-f-n.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-n-f-n/r-n-f-n.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-layout/r-n-f-n/r-n-f-n.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-main/navigation-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-main/navigation-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-main/navigation-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navigation-main/navigation-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navs/navs.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navs/navs.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navs/navs.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/navigation/navs/navs.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/footer/footer.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/footer/footer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/nav/nav.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/nav/nav.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/nav/nav.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/shared/nav/nav.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/additional/additional.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/additional/additional.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/additional/additional.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/additional/additional.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/basic/basic.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/basic/basic.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/basic/basic.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/basic/basic.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/editable/editable.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/editable/editable.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/editable/editable.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/editable/editable.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/pagination/pagination.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/pagination/pagination.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/pagination/pagination.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/responsive/responsive.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/responsive/responsive.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/responsive/responsive.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/responsive/responsive.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/search/search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/search/search.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/search/search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/sort/sort.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/sort/sort.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/sort/sort.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/sort/sort.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/tables-main/tables-main.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/tables-main/tables-main.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/tables-main/tables-main.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/components/tables/tables-main/tables-main.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/modules/routes/routes.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/shared/shared.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/app/shared/shared.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/main.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/tsconfig.server.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/projects/mdb-demo/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/app/quote.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/app/quote.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/IPS/Quotes-Angular/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javatests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jumia-clone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-practise/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-practise/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-practise/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/bootstrap-practise/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/ips/portfolio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/ips/quizboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/ips/triangle tracker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/Calculator-Application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/Mad libs/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/Mad libs/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/Mad libs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/Mad libs/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/Mad libs/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/addressbook/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/addressbook/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/addressbook/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/addressbook/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/addressbook/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/addressbook/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/bandwebsite/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/bandwebsite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/branching-test-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/catering-project/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/catering-project/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/catering-project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/confectionery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/cookie-recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/debugger/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/debugger/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/debugger/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/debugger/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/debugger/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/debugger/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/deck of cards/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/deck of cards/deck of cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/deck of cards/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/flashcard-site" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/giraffes/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/giraffes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/giraffes/wikipedia/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/giraffes/wikipedia/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/giraffes/wikipedia/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/giraffes/wikipedia/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/hello-world" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/hotel-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/img/dogimage1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/img/dogimage2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/img/walrus.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/jQuery/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/leapyear/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/leapyear/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/leapyear/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/madlibs2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/my-favorite-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/my-first-website." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/quizboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/travel-agency" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/variable scope/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/variable scope/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/peterprojects/variable scope/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/test/test onclick/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../moringaschool/test/test onclick/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../profile.jpg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/WildlifeTracker$App.ic" NAME="App Coverage Results" MODIFIED="1556635061090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WildlifeTracker" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="778552596">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENCE" value="1" />
+          <entry key="Procfile" value="2" />
+          <entry key="class" value="1" />
+          <entry key="css" value="4" />
+          <entry key="gitignore" value="2" />
+          <entry key="gradle" value="4" />
+          <entry key="gradlew" value="1" />
+          <entry key="html" value="3" />
+          <entry key="java" value="57" />
+          <entry key="jpeg" value="4" />
+          <entry key="jpg" value="45" />
+          <entry key="js" value="4" />
+          <entry key="md" value="3" />
+          <entry key="vtl" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="4" />
+          <entry key="Groovy" value="4" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="49" />
+          <entry key="JAVA" value="57" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Specification" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Procfile" value="31" />
+          <entry key="gradle" value="66" />
+          <entry key="html" value="89" />
+          <entry key="java" value="4767" />
+          <entry key="js" value="78" />
+          <entry key="md" value="168" />
+          <entry key="txt" value="9" />
+          <entry key="vtl" value="1514" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="66" />
+          <entry key="HTML" value="89" />
+          <entry key="JAVA" value="4767" />
+          <entry key="JavaScript" value="78" />
+          <entry key="PLAIN_TEXT" value="1554" />
+          <entry key="Specification" value="168" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WildlifeTracker" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wildlife-tracker</find>
+      <find>equals</find>
+      <find>(1, &quot;Zone A&quot;, &quot;Kamau&quot;, now)</find>
+      <find>endangered_animals</find>
+      <find>(&quot;Baboon&quot;, &quot;Young&quot;, &quot;Healthy&quot;, &quot;Unendangered&quot;)</find>
+      <find>update</find>
+      <find>all</find>
+      <find>(&quot;Orangutan&quot;, &quot;Young&quot;, &quot;Healthy&quot;, &quot;Unendangered&quot;)</find>
+      <find>save</find>
+      <find>EndangeredAnimal</find>
+      <find>Ole Nkrumah</find>
+      <find>Kamau</find>
+      <find>Orangutan</find>
+      <find>Baboon</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>(&quot;Cheetah&quot;)</replace>
+      <replace>(&quot;Deer&quot;, &quot;Young&quot;, &quot;Healthy&quot;, &quot;nonendangered&quot;)</replace>
+      <replace>Endangered</replace>
+      <replace>Rongai</replace>
+      <replace>Wachira</replace>
+      <replace>Monkey</replace>
+      <replace>Deer</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="WildlifeTracker" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="WildlifeTracker" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'WildlifeTracker'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'WildlifeTracker'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'WildlifeTracker'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'WildlifeTracker'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'WildlifeTracker'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'WildlifeTracker'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'WildlifeTracker'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'WildlifeTracker'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="stage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'WildlifeTracker'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6225963236000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2228901004" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="297188598" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="WildlifeTracker" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Apps" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Java Android" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$USER_HOME$/Music/hair-salon-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/test" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/LICENCE" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseManagement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EndangeredTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/app.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/app.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/pagelayoutDesign.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/endangeredAnimalForm.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/Sightings.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
+        <option value="$PROJECT_DIR$/src/main/java/Endangered.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AnimalTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DatabaseRule.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/animals.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/SightingEditForm.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/animalForm.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/animalEditForm.vtl" />
+        <option value="$PROJECT_DIR$/src/test/java/SightingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sighting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DB.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/sightings.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/SightingForm.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/layout.vtl" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WildlifeTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildlifeTracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildlifeTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildlifeTracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildlifeTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildlifeTracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildlifeTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildlifeTracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildlifeTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildlifeTracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildlifeTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildlifeTracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildlifeTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildlifeTracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="buil&#9;FILE&#9;file:///home/alpha/Documents/Core Class/WildlifeTracker/build.gradle" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556640773375" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="Animal" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="Animal" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="WildlifeTracker_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WildlifeTracker_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest.all_returnsAllInstancesOfAnimal_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WildlifeTracker_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTest" />
+      <option name="METHOD_NAME" value="all_returnsAllInstancesOfAnimal_false" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SightingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WildlifeTracker_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SightingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SightingTest.delete_deletesSighting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WildlifeTracker_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SightingTest" />
+      <option name="METHOD_NAME" value="delete_deletesSighting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SightingTest" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.AnimalTest" />
+      <item itemvalue="JUnit.AnimalTest.all_returnsAllInstancesOfAnimal_false" />
+      <item itemvalue="JUnit.SightingTest.delete_deletesSighting" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.SightingTest" />
+        <item itemvalue="JUnit.SightingTest.delete_deletesSighting" />
+        <item itemvalue="JUnit.AnimalTest" />
+        <item itemvalue="JUnit.AnimalTest.all_returnsAllInstancesOfAnimal_false" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="995a0af6-701c-4470-8147-89f18ed985d3" name="Default Changelist" comment="" />
+      <created>1556440846159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556440846159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AnimalTest - 2019.04.29 at 17h 10m 25s.xml">
+      <configuration name="AnimalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnimalTest_all_returnsAllInstancesOfAnimal_false - 2019.04.29 at 17h 10m 53s.xml">
+      <configuration name="AnimalTest.all_returnsAllInstancesOfAnimal_false" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest - 2019.04.30 at 16h 04m 37s.xml">
+      <configuration name="SightingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest - 2019.04.30 at 16h 10m 54s.xml">
+      <configuration name="SightingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest_delete_deletesSighting - 2019.04.30 at 16h 15m 04s.xml">
+      <configuration name="SightingTest.delete_deletesSighting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest_delete_deletesSighting - 2019.04.30 at 16h 16m 41s.xml">
+      <configuration name="SightingTest.delete_deletesSighting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest_delete_deletesSighting - 2019.04.30 at 16h 20m 04s.xml">
+      <configuration name="SightingTest.delete_deletesSighting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest - 2019.04.30 at 16h 32m 00s.xml">
+      <configuration name="SightingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest - 2019.04.30 at 17h 26m 21s.xml">
+      <configuration name="SightingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SightingTest_delete_deletesSighting - 2019.04.30 at 17h 26m 36s.xml">
+      <configuration name="SightingTest.delete_deletesSighting" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <layout>
+      <window_info id="GPRbuild" order="0" weight="0.32954547" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.49315068" side_tool="true" weight="0.2840909" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49918434" visible="true" weight="0.0" />
+      <window_info id="Structure" order="7" sideWeight="0.5008157" side_tool="true" weight="0.2840909" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="1.0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.066884175" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32789558" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.7862969" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.7406199" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32952693" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.5681818" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32954547" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24924242" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Codota" order="10" weight="0.32954547" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="GPRbuild" order="0" weight="0.32954547" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.49315068" side_tool="true" weight="0.2840909" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49918434" visible="true" weight="0.13484849" />
+      <window_info id="Structure" order="7" sideWeight="0.5008157" side_tool="true" weight="0.2840909" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.23327896" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.066884175" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32789558" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.7862969" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.7406199" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32952693" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.5681818" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32954547" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24924242" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Codota" order="10" weight="0.32954547" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SightingTest.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LICENCE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/9.4-1201-jdbc41/d593ec6327c9c9a25934d583eabcbf1451f73caa/postgresql-9.4-1201-jdbc41-sources.jar!/org/postgresql/core/v3/QueryExecutorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Endangered.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/EndangeredTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.vtl" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/error.vtl" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animal.vtl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/endangeredAnimalForm.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="38" column="188" selection-start-line="38" selection-start-column="188" selection-end-line="38" selection-end-column="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sparkjava/spark-core/2.5.5/f71cf88aac6d5761261fe9c9c9e38f98ff1344ee/spark-core-2.5.5-sources.jar!/spark/http/matching/MatcherFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AnimalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DatabaseRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DatabaseManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animals layout.vtl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pagelayoutDesign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animals.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="45" column="61" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Endangered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/jaguar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/kangaroos-in-sunset.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/jaguar-bold.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/jaguar2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/habitats_hero_rainforest.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/best-binoculars-for-the-money.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/Amazon_jaguar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/impala.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/elephant.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/zebras.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/wildcat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/lionesses.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/landing-page.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_201/jre/lib/rt.jar!/sun/nio/ch/Net.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SightingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1207#1208#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animalForm.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animalEditForm.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/SightingEditForm.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" lean-forward="true" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="24" column="71" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/SightingForm.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layout.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/sightings.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

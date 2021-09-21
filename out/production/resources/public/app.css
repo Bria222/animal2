@@ -1,0 +1,88 @@
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 100vh;
+  }
+}
+
+.top-nav-collapse {
+  background-color: #78909c !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+@media (max-width: 991px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #78909c !important;
+  }
+
+}
+@media (max-width: 575px) { .navbar:not(.top-nav-collapse) {
+                             background: #78909c !important;
+                             html,
+                               body,
+                               header,
+                               .view {
+                                 height: 100vh;
+                               }
+                          } }
+
+
+@media (max-width: 767px) { .navbar:not(.top-nav-collapse) {
+                             background: #78909c !important;
+                             html,
+                               body,
+                               header,
+                               .view {
+                                 height: 100vh;
+                               }
+                          } }
+h1 {
+  letter-spacing: 8px;
+}
+
+h5 {
+  letter-spacing: 3px;
+}
+
+.hr-light {
+  border-top: 0.1em solid #fff;
+  width: 40%;
+  margin:auto;
+}
+.indexRow{
+ padding-bottom:10%;
+ padding-top:10%;
+}
+.stylistsTitle{
+padding-bottom:20px;
+text-align:center;
+}
+.card{
+ background-color:rgba(0,0,0,0.4);
+}
+.transparentInputFields{
+ background-color:rgba(0,0,0,0.4);
+}
+.alignCenter{
+padding-bottom:20px;
+padding-top:20px;
+width:20%;
+margin:auto;
+}
+.typeClass{
+padding-top:20px;
+
+}

@@ -1,0 +1,107 @@
+<!--Navbar-->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+    <div class="container">
+        <a class="navbar-brand" href="/"><strong>Wildlife Tracker</strong></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/animals">Animals</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/sightings">Sightings</a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://github.com/peter-wachira/"  onclick="btnClick()" class="nav-link border border-light rounded" target="_blank">
+                        <i class="fab fa-github mr-2"></i>GitHub
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- Navbar -->
+<!-- Full Page Intro -->
+<div class="view" style="background-image: url('/images/jaguar2.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+    <!-- Mask & flexbox options-->
+    <div class="mask rgba-black-light align-items-center">
+        <!-- Content -->
+        <div class="container">
+            <!--Grid row-->
+            <div class="indexRow">
+                <!--Grid column-->
+                <div class="col-md-12 mb-4 white-text text-center">
+                    <h1 class="h1-reponsive text-warning text-uppercase font-weight-bold mb-0 pt-md-5 pt-5 animated wobble"><strong> Edit animal</strong></h1>
+                    <div class="row">
+                      <div class="col-sm-4 col-sm-offset-4">
+                        <div class="content">
+                          <form action="/animals/$animal.getId()/edit" method="post">
+                            <div class="form-group">
+                              <label for="name">Name:</label>
+                              <input type="text" name="name" class="form-control transparentInputFields" value="$animal.getName()">
+                            </div>
+                            #if($animal.getType().equals("Endangered"))
+                              <div class="form-group">
+                                <label for="health">Health:</label>
+                                <select id="health" name="health" type="text" class="form-control transparentInputFields">
+                                  #if ($endangered.getHealth().equals("Healthy"))
+                                    <option value="Healthy" selected>Healthy</option>
+                                  #else
+                                    <option value="Healthy">Healthy</option>
+                                  #end
+                                  #if ($endangered.getHealth().equals("Okay"))
+                                    <option value="Okay" selected>Okay</option>
+                                  #else
+                                    <option value="Okay">Okay</option>
+                                  #end
+                                  #if ($endangered.getHealth().equals("Ill"))
+                                    <option value="Ill" selected>Ill</option>
+                                  #else
+                                    <option value="Ill">Ill</option>
+                                  #end
+                                </select>
+                              </div>
+                              <div class="form-group">
+                                <label for="age">Age:</label>
+                                <select id="age" name="age" type="text" class="form-control transparentInputFields" value="$endangered.getAge()">
+                                  #if ($endangered.getAge().equals("Newborn"))
+                                    <option value="Newborn" selected>Newborn</option>
+                                  #else
+                                  <option value="Newborn">Newborn</option>
+                                  #end
+                                  #if ($endangered.getAge().equals("Young"))
+                                    <option value="Young" selected>Young</option>
+                                  #else
+                                  <option value="Young">Young</option>
+                                  #end
+                                  #if ($endangered.getAge().equals("Adult"))
+                                    <option value="Adult" selected>Adult</option>
+                                  #else
+                                  <option value="Adult">Adult</option>
+                                  #end
+                                </select>
+                              </div>
+                            #end
+                            <button class="btn btn-info" type="submit" name="add-animal">Edit</button>
+                          </form>
+                        </div>
+                      </div>
+                    </div>
+
+                </div>
+                <!--Grid column-->
+            </div>
+            <!--Grid row-->
+        </div>
+        <!-- Content -->
+    </div>
+    <!-- Mask & flexbox options-->
+</div>
+<!-- Full Page Intro -->
+</header>
+<!-- Main navigation -->
