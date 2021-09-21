@@ -1,12 +1,8 @@
-# Wildlife Tracker
-#### Wildlife Tracker, April 28th 2019
-#### By **Peter Wachira**
-![](screenshots/screenshot1.png)
-![]()
+
 ## Description
 
 ```bash
-An application that allows Rangers to track wildlife sightings in the area.
+this app allows  tracking of  wildlife animals sightings
 ```
 
 ## TOC
@@ -14,7 +10,7 @@ An application that allows Rangers to track wildlife sightings in the area.
 - [Installation](#Installation)
 - [SQL](#SQL)
 - [Tests](#Tests)
-- [Live Demo](#Tests)
+
 - [Requirements](#Requirements)
 - [Known Bugs](#Requirements)
 - [Extras](#extras)
@@ -83,10 +79,6 @@ The applications allow users to do the following:
 
 ## Contact Details
 ```bash
-You can contact me at pwachira900@gmail.com
+You can contact me at techconsultants.bree@gmail.com
 ```
 
-## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019. [LICENCE](https://github.com/peter-wachira/WildlifeTracker/blob/master/LICENCE)
-
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
