@@ -24,17 +24,10 @@ this app allows  tracking of  wildlife animals sightings
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
 ## Installation
-* `git clone <https://github.com/peter-wachira/WildlifeTracker.git>` this repository
+* `git clone <https://github.com/Bria222/WildlifeTracker.git>` this repository
 * `cd WildlifeTracker`
 
 
-## Live Demo
-To view the page click on the link below
- [https://gentle-fortress-49119.herokuapp.com/](*)
-
-## Tests
-
-- To run test, run files under tests/java package 
 
 
 ## SQL
