@@ -23,7 +23,7 @@
 </nav>
 <!-- Navbar -->
 <!-- Full Page Intro -->
-<div class="view" style="background-image: url('https://wallpaperplay.com/walls/full/7/9/c/86517.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+<div class="view" style="background-image: url('/images/funny.jfif'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
     <!-- Mask & flexbox options-->
     <div class="mask rgba-black-light align-items-center">
         <!-- Content -->
@@ -40,24 +40,24 @@
                              <label for="location">Location:</label>
                              <select id="location" name="location" type="text" class="form-control">
                                #if ($sighting.getLocation().equals("Zone A"))
-                                 <option value="Zone A" selected>Zone A</option>
+                                 <option value="Zone A" selected>SECTION 1</option>
                                #else
-                                 <option value="Zone A">Zone A</option>
+                                 <option value="Zone A">SECTION 1</option>
                                #end
                                #if ($sighting.getLocation().equals("Zone B"))
-                                 <option value="Zone B" selected>Zone B</option>
+                                 <option value="Zone B" selected>SECTION 2</option>
                                #else
-                                 <option value="Zone B">Zone B</option>
+                                 <option value="Zone B">SECTION 2</option>
                                #end
                                #if ($sighting.getLocation().equals("Zone C"))
-                                 <option value="Zone C" selected>Zone C</option>
+                                 <option value="Zone C" selected>SECTION 3</option>
                                #else
-                                 <option value="Zone C">Zone C</option>
+                                 <option value="Zone C">SECTION 3</option>
                                #end
                                #if ($sighting.getLocation().equals("Zone D"))
                                  <option value="Zone D" selected>Zone D</option>
                                #else
-                                 <option value="Zone D">Zone D</option>
+                                 <option value="Zone D">SECTION 4</option>
                                #end
                              </select>
                            </div>
