@@ -3,7 +3,7 @@ $(document).ready(function(){
 new WOW().init();
 
 var typed=new Typed(`#type`,{
-     strings:[" Lets track our wildlife "," app developed by mary muthoni allows tracking of wildlife sightings . "],
+     strings:[" Lets track our wildlife "," app developed by brian nyachae allows tracking of wildlife sightings . "],
      backSpeed:70,
      typeSpeed:80,
      smartBackspace:true,
