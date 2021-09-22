@@ -3,14 +3,14 @@ $(document).ready(function(){
 new WOW().init();
 
 var typed=new Typed(`#type`,{
-     strings:[" Wildlife Tracker "," An application that allows Rangers to track wildlife sightings in the area. "],
+     strings:[" Lets track our wildlife "," app developed by mary muthoni allows tracking of wildlife sightings . "],
      backSpeed:70,
      typeSpeed:80,
      smartBackspace:true,
      loop: true,
    })
    var typed =new Typed(`#msg`,{
-        strings:[" Your Animal has been saved ! "],
+        strings:[" Animal has been saved  "],
         backSpeed:70,
         typeSpeed:80,
         smartBackspace:true,
